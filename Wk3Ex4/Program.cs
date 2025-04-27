@@ -30,9 +30,13 @@ namespace Wk3Ex4
             {
                 //The following lines create the menu gui so the user can understand what they are selecting.
                 Console.WriteLine("ATM: Menu: ");
+                //Checks balance option
                 Console.WriteLine("1. Check Balance");
+                //Deposit option
                 Console.WriteLine("2. Deposit");
+                //Withdraw option
                 Console.WriteLine("3. Withdraw");
+                //Exit loop option
                 Console.WriteLine("4. Exit");
 
                 //Prompts user to select one of the options
